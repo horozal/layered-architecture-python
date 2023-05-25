@@ -1,4 +1,4 @@
-from app.domain import entity
+from app.models.entity import Entity
 
 class EntityController(Entity):
   
