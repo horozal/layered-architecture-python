@@ -1,2 +1,2 @@
-class Adapterr():
+class Adapter():
     pass
