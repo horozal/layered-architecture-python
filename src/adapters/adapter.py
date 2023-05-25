@@ -1,0 +1,2 @@
+class Adapterr():
+    pass
