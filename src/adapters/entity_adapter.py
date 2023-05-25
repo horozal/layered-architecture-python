@@ -1,0 +1,3 @@
+class EntityAdapter():
+    pass
+
