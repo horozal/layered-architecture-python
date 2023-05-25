@@ -1,5 +1,5 @@
-from app.models.entity import Entity
+from app.services.entity_service import EntityService
 
-class EntityController(Entity):
+class EntityController:
     def request(self) -> str:
-        return f"Entity controller"
+        return f"Entity service"
