@@ -1,2 +1,2 @@
-class Repository:
-    pass
+class EntityRepository:
+    def __init__(self):
