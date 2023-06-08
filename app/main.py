@@ -1,6 +1,8 @@
 from controllers.entity_controller import EntityController
 
 def main():
-    user_controller = UserController()
-    print('Hello world!')
+    entity_controller = EntityController()
+    print('Hello, world!')
 
+if __name__ == "__main__":
+    main()
